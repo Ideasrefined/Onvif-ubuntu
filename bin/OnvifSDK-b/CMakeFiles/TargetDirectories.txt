@@ -1,0 +1,2 @@
+/home/enigma/Downloads/OpenONVIF-master22/bin/OnvifSDK-b/CMakeFiles/OnvifSDK.dir
+/home/enigma/Downloads/OpenONVIF-master22/bin/OnvifSDK-b/xml/CMakeFiles/OnvifSDK_xml.dir

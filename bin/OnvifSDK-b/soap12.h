@@ -1,0 +1,1 @@
+/usr/local/share/gsoap/import/soap12.h

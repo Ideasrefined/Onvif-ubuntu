@@ -1,0 +1,2 @@
+/home/enigma/andor/OpenONVIF-master/OnvifSDK/CMakeFiles/OnvifSDK.dir
+/home/enigma/andor/OpenONVIF-master/OnvifSDK/xml/CMakeFiles/OnvifSDK_xml.dir

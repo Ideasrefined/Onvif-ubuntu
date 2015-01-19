@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/OnvifTestServer.dir/OnvifTestServer.cpp.o CMakeFiles/OnvifTestServer.dir/EventsEmitter.cpp.o CMakeFiles/OnvifTestServer.dir/mainServ.cpp.o  -o OnvifTestServer -rdynamic /home/enigma/Downloads/OpenONVIF-master22/bin/OnvifSDK-b/libOnvifSDK.a -lpthread 

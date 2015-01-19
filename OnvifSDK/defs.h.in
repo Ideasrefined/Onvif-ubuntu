@@ -1,0 +1,10 @@
+#cmakedefine DEV_S
+#cmakedefine EVNT_S
+#cmakedefine MEDIA_S
+#cmakedefine ANALY_S
+#cmakedefine DISP_S
+#cmakedefine RECORD_S
+#cmakedefine REPLAY_S
+#cmakedefine RECV_S
+#cmakedefine DEVIO_S
+#cmakedefine SEARCH_S

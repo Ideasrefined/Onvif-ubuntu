@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+8443bd61f6bf4a92785d6f55200eab5f xml/CMakeFiles/OnvifSDK_xml

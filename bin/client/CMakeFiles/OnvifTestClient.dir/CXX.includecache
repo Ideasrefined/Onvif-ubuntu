@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/enigma/Downloads/OpenONVIF-master22/bin/OnvifSDK-b/defs.h
+
+/home/enigma/Downloads/OpenONVIF-master22/examples/OnvifClient/../../OnvifSDK/include/OnvifSDK.h
+string
+-
+vector
+-
+defs.h
+/home/enigma/Downloads/OpenONVIF-master22/examples/OnvifClient/../../OnvifSDK/include/defs.h
+
+/home/enigma/Downloads/OpenONVIF-master22/examples/OnvifClient/mainClient.cpp
+stdio.h
+-
+OnvifSDK.h
+/home/enigma/Downloads/OpenONVIF-master22/examples/OnvifClient/OnvifSDK.h
+

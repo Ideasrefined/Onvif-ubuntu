@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/OnvifTestClient.dir/mainClient.cpp.o  -o OnvifTestClient -rdynamic /home/enigma/Downloads/OpenONVIF-master22/bin/OnvifSDK-b/libOnvifSDK.a -lpthread 

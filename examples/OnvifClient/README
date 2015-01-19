@@ -1,0 +1,20 @@
+
+=== OnvifTestClient ===
+### desc ###
+  It is a simple Onvif client, which performs WsDiscovery in the local network,
+  then, with use of the DeviceManagement Service,
+  call following funcs on the first discovered ONVIF device:
+    * GetSystemDateAndTime.
+    * Subscribe
+    * Then log received Event Notifications
+### prerequisites ###
+* build OnvifSDK
+
+### build ###
+mkdir OnvifClient-build
+cd OnvifClient-build
+cmake ../OnvifClient -DSDK="../../path/to/OnvifSDK-build"
+make
+
+### run ###
+./OnvifTestClient
